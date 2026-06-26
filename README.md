@@ -96,7 +96,7 @@ Credit-Card-Fraud-Detection/
 
 **Sharun Kumar D**
 
-B.Tech/M.Tech Integrated CSE (Data Science)  
+M.Tech Integrated CSE (Data Science)  
 VIT Vellore
 
 ---
