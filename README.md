@@ -19,6 +19,12 @@ The dataset contains:
 
 The dataset is highly imbalanced, with fraudulent transactions representing only a small fraction of the total data.
 
+The dataset used for this project is **not included** in this repository because of its large file size and access restrictions.
+
+To run the notebook, place the dataset file (`creditcard.csv`) in the project directory before executing the notebook.
+
+**Note:** The dataset is not publicly distributed as part of this repository.
+
 ---
 
 ## 🎯 Objective
@@ -85,8 +91,7 @@ The dataset is highly imbalanced, with fraudulent transactions representing only
 
 ```
 Credit-Card-Fraud-Detection/
-│── Credit_Card_Fraud_Detection.ipynb
-│── creditcard.csv
+│── Credit_Card_Fraud_Detection_Structured_test_sharun.ipynb
 │── README.md
 ```
 
